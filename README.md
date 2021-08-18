@@ -1,7 +1,9 @@
 # Prediction-on-Kyphosis
+
 Kyphosis is a spinal disorder in which an excessive outward curve of the spine results in an abnormal rounding of the upper back.This project allow us to predict the presence or absence of Kyphosis based on the Kpyhosis dataset .
 
-#Description:-
+# Description:
+
 The kyphosis dataset has 81 rows and 4 columns, representing data on children who have had corrective spinal surgery. This dataset contains the following columns:
 
 ->Kyphosis
